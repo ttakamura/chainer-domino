@@ -12,6 +12,7 @@ train-labels-idx1-ubyte.gz
 domino.log
 dominodump-*
 results/run-*/
+results/stdout*
 
 # ----------------------------------------------
 # Created by https://www.gitignore.io/api/python
