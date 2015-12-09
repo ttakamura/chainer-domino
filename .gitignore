@@ -1,3 +1,5 @@
+src/
+
 # mnist example -------------------------------
 graph.dot
 graph.wo_split.dot

@@ -1,1 +1,1 @@
-chainer==1.5.0.2
+-e git://github.com/ttakamura/chainer.git@7334a30e390ff42cc26ca194df66af378a335c7e#egg=chainer
